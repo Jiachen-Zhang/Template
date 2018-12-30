@@ -1,4 +1,4 @@
-Snack-Game
+## Snack-Game
 ```
 ├── build                   	# Compiled files (alternatively dist)
 ├── docs			# Documentation files (alternatively doc)
