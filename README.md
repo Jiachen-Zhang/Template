@@ -1,5 +1,5 @@
 Snack-Game
-
+```
 ├── build                   	# Compiled files (alternatively dist)
 
 ├── docs			# Documentation files (alternatively doc)
@@ -13,3 +13,4 @@ Snack-Game
 ├── LICENSE
 
 └── README.md
+```
